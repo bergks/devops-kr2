@@ -1,3 +1,4 @@
+#KR2: Berg
 import os
 import socket
 
